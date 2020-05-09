@@ -1,0 +1,4 @@
+rootProject.name='MyEventBus'
+include ':app'
+include ':lib'
+include ':mybusview'
